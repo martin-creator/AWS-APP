@@ -1,6 +1,6 @@
 # Deploying a Flask API
 ```
-Testing codebuild on AWS
+Command to test codebuild on AWS
 
 ```
 
